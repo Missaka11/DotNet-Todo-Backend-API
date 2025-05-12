@@ -254,8 +254,9 @@ public enum TodoStatus
 
 1. Clone the repository
 2. Restore dependencies: `dotnet restore`
-3. Run the application: `dotnet run`
-4. Access the Swagger UI at: `https://localhost:5001/`
+3. Add Your MySQL database name, username and password to "/TaskAPI.DataAccess/TodoDBContext.cs" file.
+5. Run the application: `dotnet run`
+6. Access the Swagger UI at: `https://localhost:5001/`
 
 ## Technologies Used
 
