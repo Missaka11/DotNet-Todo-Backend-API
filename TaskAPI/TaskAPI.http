@@ -1,0 +1,6 @@
+@TaskAPI_HostAddress = http://localhost:5228
+
+GET {{TaskAPI_HostAddress}}/api/Tasks
+Accept: application/json
+
+###

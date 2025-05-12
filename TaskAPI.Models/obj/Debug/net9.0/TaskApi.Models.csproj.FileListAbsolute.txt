@@ -1,0 +1,11 @@
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Models/bin/Debug/net9.0/TaskApi.Models.deps.json
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/bin/Debug/net9.0/TaskApi.Models.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/bin/Debug/net9.0/TaskApi.Models.pdb
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/TaskApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/TaskApi.Models.AssemblyInfoInputs.cache
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/TaskApi.Models.AssemblyInfo.cs
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/TaskApi.Models.csproj.CoreCompileInputs.cache
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/TaskApi.Models.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/refint/TaskApi.Models.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/TaskApi.Models.pdb
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Models/obj/Debug/net9.0/ref/TaskApi.Models.dll

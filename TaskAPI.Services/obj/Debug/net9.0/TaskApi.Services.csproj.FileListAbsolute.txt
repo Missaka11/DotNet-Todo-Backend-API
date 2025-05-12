@@ -1,0 +1,17 @@
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/bin/Debug/net9.0/TaskApi.Services.deps.json
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/bin/Debug/net9.0/TaskApi.Services.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/bin/Debug/net9.0/TaskApi.Services.pdb
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/bin/Debug/net9.0/TaskApi.Models.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/bin/Debug/net9.0/TaskApi.Models.pdb
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi.Services.csproj.AssemblyReference.cache
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi.Services.AssemblyInfoInputs.cache
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi.Services.AssemblyInfo.cs
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi.Services.csproj.CoreCompileInputs.cache
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi.Services.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/refint/TaskApi.Services.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi.Services.pdb
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/ref/TaskApi.Services.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi..62089CBD.Up2Date
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Services/bin/Debug/net9.0/TaskAPI.DataAccess.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Services/bin/Debug/net9.0/TaskAPI.DataAccess.pdb
