@@ -9,3 +9,4 @@
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/refint/TaskApi.Models.dll
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/TaskApi.Models.pdb
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Models/obj/Debug/net9.0/ref/TaskApi.Models.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Models/obj/Debug/net9.0/TaskApi.Models.sourcelink.json

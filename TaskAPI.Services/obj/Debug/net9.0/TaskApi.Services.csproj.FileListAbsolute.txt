@@ -15,3 +15,4 @@
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskApi.Services/obj/Debug/net9.0/TaskApi..62089CBD.Up2Date
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Services/bin/Debug/net9.0/TaskAPI.DataAccess.dll
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Services/bin/Debug/net9.0/TaskAPI.DataAccess.pdb
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI.Services/obj/Debug/net9.0/TaskApi.Services.sourcelink.json

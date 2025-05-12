@@ -46,3 +46,4 @@
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/missakaabeyrathne/Programming/DotNet/TaskAPI/TaskAPI/obj/Debug/net9.0/TaskAPI.sourcelink.json
